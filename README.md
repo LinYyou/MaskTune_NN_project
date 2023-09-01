@@ -1,5 +1,5 @@
 # MaskTune_NN_project
-The directory contains the final project of Sapienza Neural Network course.
+The directory contains the final project of Sapienza Neural Network course 2022/2023.
 
 This project consists in the replication of the transfer learning method known as MaskTune, originally proposed by *Saeid Asgari Taghanaki, Aliasghar Khani, Fereshte Khani, Ali Gholami, Linh Tran, Ali Mahdavi-Amiri, Ghassan Hamarneh*.<br>
 MaskTune is a versatile approach applicable to various supervised tasks, designed to mitigate spurious correlations between specific features and target variables, often caused by data biases. This method compels the model to explore a broader range of features, reducing over-reliance on spurious correlations.
